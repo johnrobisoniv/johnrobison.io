@@ -1,0 +1,15 @@
+
+p {
+  opacity: 0.02;
+}
+
+#wrapper {
+  width: 50%;
+  margin: auto;
+  /* background: blue; */
+  /* height: 100px; */
+}
+
+#headline {
+  margin: 15% 0 15% 4%
+}
